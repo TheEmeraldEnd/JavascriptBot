@@ -1,0 +1,2 @@
+C:\Users\Sage\source\repos\JavascriptBot\obj\Debug\JavascriptBot.esproj.CoreCompileInputs.cache
+C:\Users\Sage\source\repos\JavascriptWebsiteDiscordBot\JavascriptBot\obj\Debug\JavascriptBot.esproj.CoreCompileInputs.cache
